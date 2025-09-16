@@ -5,7 +5,7 @@ s ai som si pomohol:
 
 správnosť som si overil tak, že som skúsil a fungovalo to, ale najskôr som sa zamyslel či daná odpoveď od ai dáva zmysel
 
-čo som urobil úplné sám
+čo som urobil úplné sám:
 
-1. html
-2. css
+1. index.html
+2. style.css
